@@ -5,5 +5,5 @@ four
 five
 six
 7
-eight
+eight팔
 nine
